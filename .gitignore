@@ -1,0 +1,7 @@
+/ROADMAP.local.md
+/PROGRESS.local.md
+/solutions/
+/.study/
+__pycache__/
+/mods/*/gpui-kit.d.ts
+/mods/*/jsconfig.json
